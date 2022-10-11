@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+}
+.head{
+    background-color: crimson;
+    text-align: center;
+    color: aliceblue;
+}
+.i1{
+    height: 200px;
+    width: 250px;
+    background-image: url("CC.jpg");
+    background-repeat: no-repeat;
+    float: left;
+    margin-top: 10px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.t1{
+color: blue;
+padding-top: 200px;
+margin-bottom: 5px;
+}
+.i2{
+    height: 200px;
+    width: 250px;
+    background-image: url("BC.jpg");
+    background-repeat: no-repeat;
+    float: left;
+    margin-top: 10px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.t2{
+color: blue;
+padding-top: 200px;
+}
+.i3{
+    height: 200px;
+    width: 250px;
+    background-image: url("MC.jpg");
+    background-repeat: no-repeat;
+    float: left;
+    margin-top: 10px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.t3{
+color: blue;
+padding-top: 200px;
+}
+.i4{
+    height: 200px;
+    width: 200px;
+    background-image: url("Black Cake.jpg");
+    background-repeat: no-repeat;
+    float: left;
+    margin-top: 10px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.t4{
+color: blue;
+padding-top: 200px;
+}
+
+.text{
+    float: left;
+    padding-top: 20px;
+    padding-left: 730px;
+    color: blue;
+    }
+.box{
+    color: rgb(61, 40, 203);
+    float:right;
+    padding-top: 10px;
+    padding-right: 400px;
+}
+.bt2{
+    
+    float: right;
+    padding-top: 20px;
+    padding-right: 650px;
+    }
+.button{
+    color: rgb(228, 238, 230);
+    background-color: rgb(25, 0, 255);
+    float: left;
+    width: 200px;
+}
+.b1{
+    width: 700px;
+
+}
+.total{
+    
+    float: right;
+    border: 10px;
+    margin-top: 10px;    
+    margin-right: 690px;
+    
+}
+
+.line{
+    float: left;
+    margin-top: 30px;
+    margin-left: 400px;
+    width: 770px;
+    border-width: 6px;
+    border-top-style: solid;
+}
+.text1{
+    float: right;
+    margin-top: 10px;
+    padding-right: 650px;
+    font-size: large;
+    color: rgb(6, 160, 24);
+}
